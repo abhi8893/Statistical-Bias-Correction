@@ -27,4 +27,5 @@ The following statistical bias correction algorithms are implemented using R:
 
 ![](/home/abhi/main/coding/Python-code/mygit/Stat-BC-climate/output/plots/analysis1/precip/png_files/0_precip_annualbias.pdf-1.png)
 
-![Performance comparison of bias correction algorithms](/home/abhi/main/coding/Python-code/mygit/Stat-BC-climate/output/plots/analysis1/precip/metric_df.png)
+###Performance comparison of bias correction algorithms
+![](output/plots/analysis1/precip/metric_df.png)
